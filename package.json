@@ -1,0 +1,20 @@
+{
+	"name": "mint-importer",
+	"version": "1.0.0",
+	"description": "Import a CSV file into Mint by Intuit",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"csv-parse": "^4.4.1",
+		"inquirer": "^6.3.1",
+		"moment": "^2.24.0",
+		"pepper-mint": "^2.1.1"
+	},
+	"devDependencies": {
+		"dotenv": "^8.0.0"
+	}
+}
