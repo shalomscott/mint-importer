@@ -11,7 +11,7 @@
 	"dependencies": {
 		"csv-parse": "^4.4.1",
 		"inquirer": "^6.3.1",
-		"moment": "^2.24.0",
+		"moment": "^2.29.2",
 		"pepper-mint": "^2.1.1"
 	},
 	"devDependencies": {
